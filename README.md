@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kanaiyabarot
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning computer engineering
+- 👀WEB DEVELOPER
+- 🌱 BTECH COMPUTER ENGINEERING
 
 - 📫 How to reach me ... email - barotkb4525@gmail.com
 
